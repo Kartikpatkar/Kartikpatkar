@@ -8,11 +8,11 @@ I'm a passionate Salesforce developer with a keen interest in building innovativ
 - 🧠 I enjoy exploring Salesforce DevOps, LWC, and automation tools like Flows and Scheduled Jobs.
 - 🌱 Continuously learning new frameworks, design patterns, and cloud tools to build better software.
 - 💬 Ask me about Salesforce, Apex, LWC, web development, or open-source collaboration.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kartikpatkar) | [Email](mailto:kartikkp.assets@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kartik-patkar) | [Email](mailto:kartikkp.assets@gmail.com)
 
 ## 🧠 Featured Project – Apex Genie ⚡
 
-**[Apex Genie](https://github.com/Kartikpatkar/apex-genie)** is a powerful browser extension that helps Salesforce developers effortlessly convert JSON into strongly typed Apex classes, generate test classes, and more — right from the browser.
+**[Apex Genie](https://github.com/Kartikpatkar/apexgenie)** is a powerful browser extension that helps Salesforce developers effortlessly convert JSON into strongly typed Apex classes, generate test classes, and more — right from the browser.
 
 - 💡 One-click JSON → Apex class generation  
 - 🧪 Auto-generate test classes with optional comments and assertions  
@@ -22,7 +22,7 @@ I'm a passionate Salesforce developer with a keen interest in building innovativ
 
 > 🎯 Whether you're prototyping, testing, or integrating APIs — Apex Genie saves hours of manual coding.
 
-Check out the [Apex Genie repo](https://github.com/Kartikpatkar/apex-genie) and try the extension today!
+Check out the [Apex Genie repo](https://github.com/Kartikpatkar/apexgenie) and try the extension today!
 
 ## 🛠️ Technologies & Tools
 
@@ -45,7 +45,7 @@ Check out the [Apex Genie repo](https://github.com/Kartikpatkar/apex-genie) and 
 
 Here are some of my highlighted projects:
 
-- [Apex Genie](https://github.com/Kartikpatkar/apex-genie): A browser extension to convert JSON to Apex classes and generate test classes — built for Salesforce devs.
+- [Apex Genie](https://github.com/Kartikpatkar/apexgenie): A browser extension to convert JSON to Apex classes and generate test classes — built for Salesforce devs.
 
 Feel free to explore these repositories to see my work in action.
 
@@ -53,7 +53,7 @@ Feel free to explore these repositories to see my work in action.
 
 I'm always open to connecting with like-minded individuals. Feel free to reach out to me through the following platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/kartikpatkar)
+- [LinkedIn](https://www.linkedin.com/in/kartik-patkar)
 - [Email](mailto:kartikkp.asset@gmail.com)
 
 Looking forward to collaborating and sharing knowledge!
