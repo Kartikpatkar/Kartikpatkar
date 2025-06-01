@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kartik Patkar
 
-I'm a passionate Salesforce developer with a keen interest in building innovative CRM solutions, scalable architectures, and contributing to open-source projects. Welcome to my GitHub profile!
+I'm a passionate Salesforce developer with a keen interest in building innovative CRM solutions, scalable architectures, create chrome extension projects and contributing to open-source projects. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
