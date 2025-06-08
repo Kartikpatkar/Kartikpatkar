@@ -30,7 +30,7 @@ Check out the [Apex Genie repo](https://github.com/Kartikpatkar/apexgenie) and t
 
 ## 🧩 Project – SLDS Icons Kit 🎨
 
-**[SLDS Icons Kit](https://github.com/Kartikpatkar/slds-icons-kit)** is a full-tab Chrome Extension built for Salesforce Developers, Admins, and Architects to explore and utilize the complete SLDS icon library with ease.
+**[SLDS Icons Kit](https://github.com/Kartikpatkar/SLDS-icons-kit-salesforce)** is a full-tab Chrome Extension built for Salesforce Developers, Admins, and Architects to explore and utilize the complete SLDS icon library with ease.
 
 - 🔍 Browse and filter icons by name, category, or tags  
 - 🎛 Customize icon color, size, and style with live preview  
@@ -41,7 +41,7 @@ Check out the [Apex Genie repo](https://github.com/Kartikpatkar/apexgenie) and t
 
 > Perfect for building lightning-fast UIs in LWC or Aura, without ever leaving your dev environment.
 
-Explore the [SLDS Icons Kit repository](https://github.com/Kartikpatkar/slds-icons-kit) to learn more.
+Explore the [SLDS Icons Kit repository](https://github.com/Kartikpatkar/SLDS-icons-kit-salesforce) to learn more.
 
 ---
 
@@ -71,7 +71,7 @@ Explore the [SLDS Icons Kit repository](https://github.com/Kartikpatkar/slds-ico
 Here are some of my highlighted projects:
 
 - [Apex Genie](https://github.com/Kartikpatkar/apexgenie): A browser extension to convert JSON to Apex classes and generate test classes — built for Salesforce devs.
-- [SLDS Icons Kit](https://github.com/Kartikpatkar/slds-icons-kit): A full-tab Chrome Extension to explore and copy SLDS icons with preview, color customization, and export tools.
+- [SLDS Icons Kit](https://github.com/Kartikpatkar/SLDS-icons-kit-salesforce): A full-tab Chrome Extension to explore and copy SLDS icons with preview, color customization, and export tools.
 
 ---
 
