@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Kartik Patkar
 
-I'm a passionate Salesforce developer with a keen interest in building innovative CRM solutions, scalable architectures, create chrome extension projects and contributing to open-source projects. Welcome to my GitHub profile!
+I'm a passionate Salesforce developer with a keen interest in building innovative CRM solutions, scalable architectures, create Chrome extension projects and contributing to open-source projects. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
@@ -9,6 +9,8 @@ I'm a passionate Salesforce developer with a keen interest in building innovativ
 - 🌱 Continuously learning new frameworks, design patterns, and cloud tools to build better software.
 - 💬 Ask me about Salesforce, Apex, LWC, web development, or open-source collaboration.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kartik-patkar) | [Email](mailto:kartikkp.assets@gmail.com)
+
+---
 
 ## 🧠 Featured Project – Apex Genie ⚡
 
@@ -24,6 +26,25 @@ I'm a passionate Salesforce developer with a keen interest in building innovativ
 
 Check out the [Apex Genie repo](https://github.com/Kartikpatkar/apexgenie) and try the extension today!
 
+---
+
+## 🧩 Project – SLDS Icons Kit 🎨
+
+**[SLDS Icons Kit](https://github.com/Kartikpatkar/slds-icons-kit)** is a full-tab Chrome Extension built for Salesforce Developers, Admins, and Architects to explore and utilize the complete SLDS icon library with ease.
+
+- 🔍 Browse and filter icons by name, category, or tags  
+- 🎛 Customize icon color, size, and style with live preview  
+- 📋 Copy LWC, Aura, and SLDS code snippets instantly  
+- 🌗 Toggle between dark/light themes — theme-aware Monaco Editor included  
+- 📦 Download icons as SVG or PNG, customize on the fly  
+- 💡 Built for speed, productivity, and offline use
+
+> Perfect for building lightning-fast UIs in LWC or Aura, without ever leaving your dev environment.
+
+Explore the [SLDS Icons Kit repository](https://github.com/Kartikpatkar/slds-icons-kit) to learn more.
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ![Apex](https://img.shields.io/badge/-Apex-1798c1?style=flat&logo=salesforce&logoColor=white)
@@ -37,17 +58,22 @@ Check out the [Apex Genie repo](https://github.com/Kartikpatkar/apexgenie) and t
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Salesforce CLI](https://img.shields.io/badge/-SFDX-00A1E0?style=flat&logo=salesforce)
 
+---
+
 ## 📈 GitHub Stats
 
 ![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartikpatkar&show_icons=true&theme=radical)
+
+---
 
 ## 📌 Pinned Projects
 
 Here are some of my highlighted projects:
 
 - [Apex Genie](https://github.com/Kartikpatkar/apexgenie): A browser extension to convert JSON to Apex classes and generate test classes — built for Salesforce devs.
+- [SLDS Icons Kit](https://github.com/Kartikpatkar/slds-icons-kit): A full-tab Chrome Extension to explore and copy SLDS icons with preview, color customization, and export tools.
 
-Feel free to explore these repositories to see my work in action.
+---
 
 ## 📫 Let's Connect
 
