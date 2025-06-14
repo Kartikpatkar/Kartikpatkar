@@ -24,7 +24,10 @@ I'm a passionate Salesforce developer with a keen interest in building innovativ
 
 > 🎯 Whether you're prototyping, testing, or integrating APIs — Apex Genie saves hours of manual coding.
 
-Check out the [Apex Genie repo](https://github.com/Kartikpatkar/apexgenie) and try the extension today!
+🔗 [Install Chrome Extension](https://chrome.google.com/webstore/detail/json-to-apex-genie/ifliljlnfdnmagdgmomglfoimjcnpinb)  
+📦 [View Project Repository](https://github.com/Kartikpatkar/json-2-apex-genie)
+
+> ✅ Works 100% offline | 🧪 Developer-first design | 🧩 No setup needed
 
 ---
 
@@ -41,7 +44,8 @@ Check out the [Apex Genie repo](https://github.com/Kartikpatkar/apexgenie) and t
 
 > Perfect for building lightning-fast UIs in LWC or Aura, without ever leaving your dev environment.
 
-Explore the [SLDS Icons Kit repository](https://github.com/Kartikpatkar/SLDS-icons-kit-salesforce) to learn more.
+🔗 [Chrome Web Store – Coming Soon]  
+📦 [View Project Repository](https://github.com/Kartikpatkar/SLDS-icons-kit-salesforce)
 
 ---
 
