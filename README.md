@@ -49,6 +49,25 @@ I'm a passionate Salesforce developer with a keen interest in building innovativ
 
 ---
 
+## 🧠 Featured Project – Base64 Buddy 🖇️
+
+**[Base64 Buddy](https://github.com/Kartikpatkar/base64-buddy)** is a lightweight Chrome Extension that enables developers and designers to **encode and decode files in Base64** effortlessly — right from the browser.
+
+- 💡 Encode/decode images, documents, and other file types instantly  
+- 📋 One-click copy for Base64 strings or Data URIs  
+- 🔍 File preview before encoding or after decoding  
+- 🌑 Dark/light theme support with auto-save preferences  
+- 🔒 Offline-first and privacy-focused — no data leaves your browser  
+
+> 🎯 Perfect for web developers, Salesforce developers, or anyone working with Base64 in integrations and workflows. Save time, reduce errors, and simplify file handling.
+
+🔗 [Chrome Web Store – Coming Soon]  
+📦 [View Project Repository](https://github.com/Kartikpatkar/base64-buddy)  
+
+> ✅ Works 100% offline | 🔐 Privacy-first design | 🧩 Ready to use immediately
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ![Apex](https://img.shields.io/badge/-Apex-1798c1?style=flat&logo=salesforce&logoColor=white)
@@ -76,6 +95,7 @@ Here are some of my highlighted projects:
 
 - [Apex Genie](https://github.com/Kartikpatkar/apexgenie): A browser extension to convert JSON to Apex classes and generate test classes — built for Salesforce devs.
 - [SLDS Icons Kit](https://github.com/Kartikpatkar/SLDS-icons-kit-salesforce): A full-tab Chrome Extension to explore and copy SLDS icons with preview, color customization, and export tools.
+- [Base64 Buddy](https://github.com/Kartikpatkar/base64-buddy): A lightweight Chrome Extension that enables developers and designers to encode and decode files in Base64 effortlessly — right from the browser.
 
 ---
 
