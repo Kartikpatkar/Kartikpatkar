@@ -44,7 +44,7 @@ I'm a passionate Salesforce developer with a keen interest in building innovativ
 
 > Perfect for building lightning-fast UIs in LWC or Aura, without ever leaving your dev environment.
 
-🔗 [Chrome Web Store – Coming Soon]  
+🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/pgjeeljfclipedfnlojjchmmilddiaje)
 📦 [View Project Repository](https://github.com/Kartikpatkar/SLDS-icons-kit-salesforce)
 
 ---
@@ -61,7 +61,7 @@ I'm a passionate Salesforce developer with a keen interest in building innovativ
 
 > 🎯 Perfect for web developers, Salesforce developers, or anyone working with Base64 in integrations and workflows. Save time, reduce errors, and simplify file handling.
 
-🔗 [Chrome Web Store – Coming Soon]  
+🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/base64-buddy/pbaojpkalnecabmgnkgdpfonmafpfphh)
 📦 [View Project Repository](https://github.com/Kartikpatkar/base64-buddy)  
 
 > ✅ Works 100% offline | 🔐 Privacy-first design | 🧩 Ready to use immediately
