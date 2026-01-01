@@ -79,7 +79,6 @@ Here’s a **clean, polished GitHub / LinkedIn Project-section write-up** for **
 * 🧩 Side-by-side comparison for code, text, and JSON
 * ➕➖ Clear highlighting for added, removed, and modified lines
 * 📋 One-click copy for:
-
   * Original input
   * Modified input
   * Full diff output
@@ -125,6 +124,7 @@ Here are some of my highlighted projects:
 - [Apex Genie](https://github.com/Kartikpatkar/apexgenie): A browser extension to convert JSON to Apex classes and generate test classes — built for Salesforce devs.
 - [SLDS Icons Kit](https://github.com/Kartikpatkar/SLDS-icons-kit-salesforce): A full-tab Chrome Extension to explore and copy SLDS icons with preview, color customization, and export tools.
 - [Base64 Buddy](https://github.com/Kartikpatkar/base64-buddy): A lightweight Chrome Extension that enables developers and designers to encode and decode files in Base64 effortlessly — right from the browser.
+- [DiffBoard](https://github.com/Kartikpatkar/diff-board): a Chrome Extension for fast, visual code comparison. It highlights differences line-by-line, supports JSON formatting, offers copy utilities, and works entirely offline with a clean, developer-friendly UI.
 
 ---
 
