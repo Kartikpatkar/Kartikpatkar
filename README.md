@@ -120,7 +120,7 @@ You can paste this directly into **LinkedIn Featured**, **Portfolio**, or **GitH
 
 > 🎯 Ideal for Salesforce developers, consultants, and release managers preparing deployment packages, partial releases, or CI/CD metadata lists without manually writing XML.
 
-🔗 [Install Chrome Extension](Coming Soon)
+🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/dckmmjdjldnoipccflojfodimnmemfgn?utm_source=item-share-cb)
 📦 [View Project Repository](https://github.com/Kartikpatkar/salesforce-package-xml-generator) 
 
 > ✅ Session-based authentication | 🔐 No external servers | ⚡ Built for real Salesforce deployment workflows
