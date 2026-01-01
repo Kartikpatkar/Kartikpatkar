@@ -96,6 +96,37 @@ Here’s a **clean, polished GitHub / LinkedIn Project-section write-up** for **
 
 ---
 
+Here’s the **same “Featured Project”–style content**, rewritten cleanly and consistently for your **Salesforce Package XML Generator** project.
+Tone, structure, and visual rhythm match your DiffBoard section.
+
+You can paste this directly into **LinkedIn Featured**, **Portfolio**, or **GitHub profile README**.
+
+---
+
+## 🧠 Featured Project – Salesforce Package XML Generator 📦
+
+**Salesforce Package XML Generator** is a developer-focused **Chrome Extension** that helps Salesforce professionals **explore org metadata and generate accurate `package.xml` files visually** — directly from their active Salesforce session.
+
+* 🧩 Automatic Salesforce org detection (Prod, Sandbox, Dev Edition)
+* 📂 Browse real metadata types and components present in the org
+* 🔍 View metadata using the correct Salesforce APIs:
+  * Tooling API for Apex metadata
+  * Metadata API for configuration metadata
+* ☑️ Fine-grained selection for partial deployments
+* 📦 Instant generation of valid `package.xml`
+* 👁️ Live XML preview with one-click download or copy
+* 🌗 Clean, developer-friendly UI with dark / light mode
+* 🔒 Secure & privacy-first — no OAuth, no credentials stored
+
+> 🎯 Ideal for Salesforce developers, consultants, and release managers preparing deployment packages, partial releases, or CI/CD metadata lists without manually writing XML.
+
+🔗 [Install Chrome Extension](Coming Soon)
+📦 [View Project Repository](https://github.com/Kartikpatkar/salesforce-package-xml-generator) 
+
+> ✅ Session-based authentication | 🔐 No external servers | ⚡ Built for real Salesforce deployment workflows
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ![Apex](https://img.shields.io/badge/-Apex-1798c1?style=flat&logo=salesforce&logoColor=white)
@@ -111,12 +142,6 @@ Here’s a **clean, polished GitHub / LinkedIn Project-section write-up** for **
 
 ---
 
-## 📈 GitHub Stats
-
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartikpatkar&show_icons=true&theme=radical)
-
----
-
 ## 📌 Pinned Projects
 
 Here are some of my highlighted projects:
@@ -124,7 +149,8 @@ Here are some of my highlighted projects:
 - [Apex Genie](https://github.com/Kartikpatkar/apexgenie): A browser extension to convert JSON to Apex classes and generate test classes — built for Salesforce devs.
 - [SLDS Icons Kit](https://github.com/Kartikpatkar/SLDS-icons-kit-salesforce): A full-tab Chrome Extension to explore and copy SLDS icons with preview, color customization, and export tools.
 - [Base64 Buddy](https://github.com/Kartikpatkar/base64-buddy): A lightweight Chrome Extension that enables developers and designers to encode and decode files in Base64 effortlessly — right from the browser.
-- [DiffBoard](https://github.com/Kartikpatkar/diff-board): a Chrome Extension for fast, visual code comparison. It highlights differences line-by-line, supports JSON formatting, offers copy utilities, and works entirely offline with a clean, developer-friendly UI.
+- [DiffBoard](https://github.com/Kartikpatkar/diff-board): A Chrome Extension for fast, visual code comparison. It highlights differences line-by-line, supports JSON formatting, offers copy utilities, and works entirely offline with a clean, developer-friendly UI.
+- [Salesforce Package XML Generator](https://github.com/Kartikpatkar/salesforce-package-xml-generator): A Chrome Extension for Salesforce developers to visually explore org metadata and generate accurate package.xml files for deployments.
 
 ---
 
