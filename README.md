@@ -68,6 +68,35 @@ I'm a passionate Salesforce developer with a keen interest in building innovativ
 
 ---
 
+Here’s a **clean, polished GitHub / LinkedIn Project-section write-up** for **DiffBoard**, styled exactly like your Base64 Buddy example and ready to **copy-paste**:
+
+---
+
+## 🧠 Featured Project – DiffBoard 🔀
+
+**DiffBoard** is a modern, developer-focused **Chrome Extension** that helps you **compare code, text, and JSON visually** with clarity and speed — directly inside your browser.
+
+* 🧩 Side-by-side comparison for code, text, and JSON
+* ➕➖ Clear highlighting for added, removed, and modified lines
+* 📋 One-click copy for:
+
+  * Original input
+  * Modified input
+  * Full diff output
+  * Only added or removed lines
+* 🌗 Dark / light theme support with persistent preferences
+* 🧭 Smooth navigation between input and diff views
+* 🔒 Offline-first & privacy-friendly — all processing happens locally
+
+> 🎯 Ideal for developers comparing API responses, configuration files, logs, JSON payloads, or reviewing code changes quickly without switching tools.
+
+🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/diffboard/fcjefapchiecdkfdggohfdpchepbncpg)
+📦 [View Project Repository](https://github.com/Kartikpatkar/diff-board) 
+
+> ✅ Fully client-side | 🔐 No data leaves your browser | ⚡ Built for developer productivity
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ![Apex](https://img.shields.io/badge/-Apex-1798c1?style=flat&logo=salesforce&logoColor=white)
