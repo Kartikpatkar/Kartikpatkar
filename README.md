@@ -68,10 +68,6 @@ I'm a passionate Salesforce developer with a keen interest in building innovativ
 
 ---
 
-Here’s a **clean, polished GitHub / LinkedIn Project-section write-up** for **DiffBoard**, styled exactly like your Base64 Buddy example and ready to **copy-paste**:
-
----
-
 ## 🧠 Featured Project – DiffBoard 🔀
 
 **DiffBoard** is a modern, developer-focused **Chrome Extension** that helps you **compare code, text, and JSON visually** with clarity and speed — directly inside your browser.
@@ -93,13 +89,6 @@ Here’s a **clean, polished GitHub / LinkedIn Project-section write-up** for **
 📦 [View Project Repository](https://github.com/Kartikpatkar/diff-board) 
 
 > ✅ Fully client-side | 🔐 No data leaves your browser | ⚡ Built for developer productivity
-
----
-
-Here’s the **same “Featured Project”–style content**, rewritten cleanly and consistently for your **Salesforce Package XML Generator** project.
-Tone, structure, and visual rhythm match your DiffBoard section.
-
-You can paste this directly into **LinkedIn Featured**, **Portfolio**, or **GitHub profile README**.
 
 ---
 
@@ -127,6 +116,24 @@ You can paste this directly into **LinkedIn Featured**, **Portfolio**, or **GitH
 
 ---
 
+## 🧩 Project – Salesforce Metadata Exporter 📦
+
+**Salesforce Metadata Exporter** is a lightweight Chrome Extension built for Salesforce Developers, Architects, and Technical Admins to export **Salesforce metadata only** from a logged-in org into a downloadable ZIP file — quickly, safely, and on demand.
+
+* 📦 Export Salesforce metadata using the Metadata API
+* 🧩 Select specific components like Objects, Fields, Apex, Flows, and more
+* ⚡ Use one-click presets such as *Apex Only* or *Object Model*
+* 📄 Automatically generate a clean `package.xml`
+* 🔐 No credentials stored — uses your existing Salesforce session
+* 💻 No CLI, no setup, no external servers
+
+> Ideal for quick audits, configuration reviews, pre/post deployment checks, and development workflows — without relying on Salesforce CLI or ANT.
+
+🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/mnkhginjgjbcmnfkcfnjbhpgnjfmeibd?utm_source=item-share-cb)
+📦 [View Project Repository](https://github.com/Kartikpatkar/salesforce-metadata-exporter) 
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ![Apex](https://img.shields.io/badge/-Apex-1798c1?style=flat&logo=salesforce&logoColor=white)
@@ -151,6 +158,7 @@ Here are some of my highlighted projects:
 - [Base64 Buddy](https://github.com/Kartikpatkar/base64-buddy): A lightweight Chrome Extension that enables developers and designers to encode and decode files in Base64 effortlessly — right from the browser.
 - [DiffBoard](https://github.com/Kartikpatkar/diff-board): A Chrome Extension for fast, visual code comparison. It highlights differences line-by-line, supports JSON formatting, offers copy utilities, and works entirely offline with a clean, developer-friendly UI.
 - [Salesforce Package XML Generator](https://github.com/Kartikpatkar/salesforce-package-xml-generator): A Chrome Extension for Salesforce developers to visually explore org metadata and generate accurate package.xml files for deployments.
+- [Salesforce Metadata Exporter](https://github.com/Kartikpatkar/salesforce-metadata-exporter): A Chrome Extension for Salesforce developers to export Salesforce metadata only from a logged-in org as a ZIP file using the Metadata API.
 
 ---
 
