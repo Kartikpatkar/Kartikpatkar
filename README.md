@@ -1,14 +1,27 @@
-# 👋 Hi there, I'm Kartik Patkar
+👋 Hi there, I'm Kartik Patkar
 
-I'm a passionate Salesforce developer with a keen interest in building innovative CRM solutions, scalable architectures, create Chrome extension projects and contributing to open-source projects. Welcome to my GitHub profile!
+I'm a **Senior Salesforce Developer and Chrome Extension builder** who specializes in creating **offline-first, privacy-focused developer tools** for Salesforce professionals.
+
+I design and ship real-world solutions that simplify Apex development, metadata management, UI building, and everyday developer workflows — many of which are published on the Chrome Web Store and used by Salesforce developers globally.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working as a Senior Salesforce Developer, focusing on scalable Apex solutions, clean data models, and secure integrations.
-- 🧠 I enjoy exploring Salesforce DevOps, LWC, and automation tools like Flows and Scheduled Jobs.
-- 🌱 Continuously learning new frameworks, design patterns, and cloud tools to build better software.
-- 💬 Ask me about Salesforce, Apex, LWC, web development, or open-source collaboration.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kartik-patkar) | [Email](mailto:kartikkp.assets@gmail.com)
+- 🔭 Senior Salesforce Developer with hands-on experience in Apex, LWC, metadata-driven architectures, and secure integrations.
+- 🧩 Creator of multiple **published Chrome Extensions** focused on Salesforce and developer productivity.
+- 🧠 Strong interest in **offline-first tools**, browser-based automation, and privacy-respecting architectures.
+- ⚙️ Experienced in Salesforce DevOps, package.xml workflows, Metadata API, Tooling API, and deployment automation.
+- 🌱 Continuously exploring scalable design patterns, clean UX for developer tools, and modern web APIs.
+- 💬 Happy to discuss Salesforce architecture, Chrome extension development, Apex patterns, or open-source collaboration.
+
+---
+
+## 🏆 What I’m Known For
+
+- Building **offline-first Chrome Extensions** for Salesforce developers
+- Turning painful Salesforce workflows into **one-click tools**
+- Metadata-driven solutions (package.xml, exports, comparisons)
+- Clean, developer-friendly UI/UX for technical tools
+- Privacy-first designs — no servers, no tracking, no data leaks
 
 ---
 
@@ -27,7 +40,7 @@ I'm a passionate Salesforce developer with a keen interest in building innovativ
 🔗 [Install Chrome Extension](https://chrome.google.com/webstore/detail/json-to-apex-genie/ifliljlnfdnmagdgmomglfoimjcnpinb)  
 📦 [View Project Repository](https://github.com/Kartikpatkar/json-2-apex-genie)
 
-> ✅ Works 100% offline | 🧪 Developer-first design | 🧩 No setup needed
+> ✔ Offline-first • ✔ Privacy-focused • ✔ Zero external servers
 
 ---
 
@@ -64,7 +77,7 @@ I'm a passionate Salesforce developer with a keen interest in building innovativ
 🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/base64-buddy/pbaojpkalnecabmgnkgdpfonmafpfphh)
 📦 [View Project Repository](https://github.com/Kartikpatkar/base64-buddy)  
 
-> ✅ Works 100% offline | 🔐 Privacy-first design | 🧩 Ready to use immediately
+> ✔ Offline-first • ✔ Privacy-focused • ✔ Zero external servers
 
 ---
 
@@ -134,6 +147,26 @@ I'm a passionate Salesforce developer with a keen interest in building innovativ
 
 ---
 
+## 🧩 Project – Offline PDF Tools 📄
+
+**Offline PDF Tools** is a privacy-first Chrome Extension that allows users to **modify PDF files completely offline** — directly inside the browser, with no uploads, no servers, and no tracking.
+
+* 📑 Merge multiple PDF files into one
+* ✂️ Split PDFs using flexible page ranges (e.g. `1-3,5,7-10`)
+* 📋 Extract selected pages into a new PDF
+* 🔀 Reorder pages visually using thumbnails
+* 🗑 Delete unwanted pages safely
+* 🔄 Rotate pages by 90°, 180°, or 270°
+* 🔐 100% offline processing — files never leave your device
+* 💻 No accounts, no subscriptions, no external services
+
+> Ideal for privacy-conscious users, professionals handling sensitive documents, students, and anyone who wants reliable PDF tools without trusting online services.
+
+🔗 **Chrome Web Store:** *(Coming Soon)*
+📦 **View Project Repository:** [https://github.com/Kartikpatkar/offline-pdf-tools](https://github.com/Kartikpatkar/offline-pdf-tools)
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ![Apex](https://img.shields.io/badge/-Apex-1798c1?style=flat&logo=salesforce&logoColor=white)
@@ -159,6 +192,7 @@ Here are some of my highlighted projects:
 - [DiffBoard](https://github.com/Kartikpatkar/diff-board): A Chrome Extension for fast, visual code comparison. It highlights differences line-by-line, supports JSON formatting, offers copy utilities, and works entirely offline with a clean, developer-friendly UI.
 - [Salesforce Package XML Generator](https://github.com/Kartikpatkar/salesforce-package-xml-generator): A Chrome Extension for Salesforce developers to visually explore org metadata and generate accurate package.xml files for deployments.
 - [Salesforce Metadata Exporter](https://github.com/Kartikpatkar/salesforce-metadata-exporter): A Chrome Extension for Salesforce developers to export Salesforce metadata only from a logged-in org as a ZIP file using the Metadata API.
+- [Offline PDF Tools](https://github.com/Kartikpatkar/offline-pdf-tools): A privacy-first Chrome Extension that lets users merge, split, extract, rotate, delete, and reorder PDF pages completely offline, directly in the browser.
 
 ---
 
@@ -170,3 +204,14 @@ I'm always open to connecting with like-minded individuals. Feel free to reach o
 - [Email](mailto:kartikkp.asset@gmail.com)
 
 Looking forward to collaborating and sharing knowledge!
+
+---
+
+## 🤝 Open to Collaboration
+
+I’m especially interested in:
+- Salesforce developer tooling
+- Chrome Extensions for productivity
+- Open-source projects with real-world impact
+
+If you’re building something interesting or want to collaborate, feel free to reach out.
