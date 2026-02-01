@@ -162,8 +162,8 @@ I design and ship real-world solutions that simplify Apex development, metadata 
 
 > Ideal for privacy-conscious users, professionals handling sensitive documents, students, and anyone who wants reliable PDF tools without trusting online services.
 
-🔗 **Chrome Web Store:** *(Coming Soon)*
-📦 **View Project Repository:** [https://github.com/Kartikpatkar/offline-pdf-tools](https://github.com/Kartikpatkar/offline-pdf-tools)
+🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/lkokanmnglecjkgabbhincgaiceedolc?utm_source=item-share-cb)
+📦 [View Project Repository](https://github.com/Kartikpatkar/offline-pdf-tools)
 
 ---
 
