@@ -167,6 +167,30 @@ I design and ship real-world solutions that simplify Apex development, metadata 
 
 ---
 
+## 🧠 Featured Project – FieldForge 🚀
+
+**[FieldForge](https://github.com/Kartikpatkar/fieldforge)** is a powerful Chrome Extension that helps Salesforce developers bulk-create custom fields from CSV or XLSX files — with built-in validation, metadata transparency, and safe deployment controls.
+
+* 📂 Upload CSV/XLSX to define multiple custom fields at once
+* 📝 Preview & edit fields inline before deployment
+* ✅ Local + org-side validation to catch errors early
+* 🔍 View generated Metadata XML before deploying
+* 📦 Download the deploy ZIP package
+* 🚀 Deploy safely using Salesforce Metadata API
+* 🛡 Production safety confirmation to prevent accidental changes
+* 🎨 Modern UI with dark/light theme support
+* 🔒 Session-based — no OAuth, no credential storage
+* 🌍 Open-source and developer-first
+
+> 🎯 Whether you're building a new data model, setting up a sandbox, or implementing large features — FieldForge eliminates repetitive setup work and keeps deployments transparent and safe.
+
+🔗 *(Chrome Web Store link here once published)*
+📦 [View Project Repository](https://github.com/Kartikpatkar/fieldforge)
+
+> ✔ Metadata-safe • ✔ Developer-focused • ✔ No external servers • ✔ Manifest V3
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ![Apex](https://img.shields.io/badge/-Apex-1798c1?style=flat&logo=salesforce&logoColor=white)
@@ -193,6 +217,7 @@ Here are some of my highlighted projects:
 - [Salesforce Package XML Generator](https://github.com/Kartikpatkar/salesforce-package-xml-generator): A Chrome Extension for Salesforce developers to visually explore org metadata and generate accurate package.xml files for deployments.
 - [Salesforce Metadata Exporter](https://github.com/Kartikpatkar/salesforce-metadata-exporter): A Chrome Extension for Salesforce developers to export Salesforce metadata only from a logged-in org as a ZIP file using the Metadata API.
 - [Offline PDF Tools](https://github.com/Kartikpatkar/offline-pdf-tools): A privacy-first Chrome Extension that lets users merge, split, extract, rotate, delete, and reorder PDF pages completely offline, directly in the browser.
+- [FieldForge](https://github.com/Kartikpatkar/fieldforge): A developer-focused Chrome Extension that lets Salesforce developers bulk-create custom fields from CSV/XLSX with validation, preview, and safe Metadata API deployment.
 
 ---
 
