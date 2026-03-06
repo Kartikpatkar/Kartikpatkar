@@ -191,6 +191,34 @@ I design and ship real-world solutions that simplify Apex development, metadata 
 
 ---
 
+Here is the **ProfileShift version** in the same style as your **FieldForge featured project section** so it fits nicely in your **GitHub profile README**.
+
+---
+
+## 🧠 Featured Project – ProfileShift 🔐
+
+**[ProfileShift](https://github.com/Kartikpatkar/profile-shift)** is a developer-focused Chrome Extension that helps Salesforce teams convert legacy **Profiles into modern Permission Sets** — making security refactoring faster, safer, and transparent.
+
+* 🔍 Extract Salesforce Profile metadata directly from your org
+* 🔄 Convert Profiles into minimal **Permission Set XML**
+* 🧩 Review and edit permissions before generating metadata
+* 📦 Export deploy-ready Permission Set files
+* 🚀 Deploy Permission Sets directly using the **Salesforce Metadata API**
+* 🔐 Uses your existing Salesforce session (no OAuth required)
+* 🧠 Supports object permissions, field-level security, system permissions, and more
+* ⚡ Generates **clean delta-style Permission Sets** (enabled permissions only)
+* 🎨 Modern full-page UI with dark/light theme
+* 🌍 Fully open-source and developer-friendly
+
+> 🎯 Ideal for Salesforce developers, administrators, and architects working to modernize security architecture by moving from Profile-based access control to Permission Set–based access management.
+
+🔗 *(Chrome Web Store link here once published)*
+📦 [View Project Repository](https://github.com/Kartikpatkar/profile-shift)
+
+> ✔ Metadata-safe • ✔ Developer-focused • ✔ Client-side only • ✔ Manifest V3
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ![Apex](https://img.shields.io/badge/-Apex-1798c1?style=flat&logo=salesforce&logoColor=white)
@@ -218,6 +246,7 @@ Here are some of my highlighted projects:
 - [Salesforce Metadata Exporter](https://github.com/Kartikpatkar/salesforce-metadata-exporter): A Chrome Extension for Salesforce developers to export Salesforce metadata only from a logged-in org as a ZIP file using the Metadata API.
 - [Offline PDF Tools](https://github.com/Kartikpatkar/offline-pdf-tools): A privacy-first Chrome Extension that lets users merge, split, extract, rotate, delete, and reorder PDF pages completely offline, directly in the browser.
 - [FieldForge](https://github.com/Kartikpatkar/fieldforge): A developer-focused Chrome Extension that lets Salesforce developers bulk-create custom fields from CSV/XLSX with validation, preview, and safe Metadata API deployment.
+- [ProfileShift](https://github.com/Kartikpatkar/profile-shift): A developer-focused Chrome Extension that converts Salesforce Profiles into minimal Permission Set metadata with review, export, and safe Metadata API deployment.
 
 ---
 
