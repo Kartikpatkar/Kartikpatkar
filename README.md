@@ -208,7 +208,7 @@ I design and ship real-world solutions that simplify Apex development, metadata 
 
 > 🎯 Ideal for Salesforce developers, administrators, and architects working to modernize security architecture by moving from Profile-based access control to Permission Set–based access management.
 
-🔗 *(Chrome Web Store link here once published)*
+🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/emmbjaeefbnhegnkkcgpndccpopiocio?utm_source=item-share-cb)
 📦 [View Project Repository](https://github.com/Kartikpatkar/profile-shift)
 
 > ✔ Metadata-safe • ✔ Developer-focused • ✔ Client-side only • ✔ Manifest V3
