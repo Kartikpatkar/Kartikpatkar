@@ -191,10 +191,6 @@ I design and ship real-world solutions that simplify Apex development, metadata 
 
 ---
 
-Here is the **ProfileShift version** in the same style as your **FieldForge featured project section** so it fits nicely in your **GitHub profile README**.
-
----
-
 ## 🧠 Featured Project – ProfileShift 🔐
 
 **[ProfileShift](https://github.com/Kartikpatkar/profile-shift)** is a developer-focused Chrome Extension that helps Salesforce teams convert legacy **Profiles into modern Permission Sets** — making security refactoring faster, safer, and transparent.
