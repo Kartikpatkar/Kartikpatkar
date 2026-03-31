@@ -184,7 +184,7 @@ I design and ship real-world solutions that simplify Apex development, metadata 
 
 > 🎯 Whether you're building a new data model, setting up a sandbox, or implementing large features — FieldForge eliminates repetitive setup work and keeps deployments transparent and safe.
 
-🔗 *(Chrome Web Store link here once published)*
+🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/nfjjccdcnpdmfglblfnkmmfecmblbhfo?utm_source=item-share-cb)
 📦 [View Project Repository](https://github.com/Kartikpatkar/fieldforge)
 
 > ✔ Metadata-safe • ✔ Developer-focused • ✔ No external servers • ✔ Manifest V3
