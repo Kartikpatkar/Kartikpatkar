@@ -215,6 +215,28 @@ I design and ship real-world solutions that simplify Apex development, metadata 
 
 ---
 
+## 🛡️ Featured Project – SF Security Auditor
+
+**SF Security Auditor** is a privacy-first Chrome extension that helps Salesforce admins, consultants, and security teams audit profiles, permission sets, object access, and compliance risks directly from their browser — with no packages to install and no data leaving the organization.
+
+* 🔐 Connects securely using your active Salesforce session
+* 👥 Unified Profiles & Permission Sets inventory with user assignment insights
+* 🛡️ Audits critical system permissions and compliance-sensitive access
+* 📊 Generates object-level CRUD, View All, and Modify All access matrices
+* 📂 Analyzes metadata footprint across Apex, Profiles, Permission Sets, and Custom Objects
+* 📈 Exports professionally formatted multi-sheet Excel audit workbooks
+* 🌙 Modern light/dark workspace with fully local processing
+* 🚫 No external servers, no credential storage, and no Salesforce package installation required
+
+> 🎯 Whether you're preparing for a security review, compliance assessment, internal audit, or org cleanup — SF Security Auditor helps you identify risks and generate audit-ready reports in minutes.
+
+🛡️ Chrome Extension — **Coming Soon**
+📦 [View Project Repository](https://github.com/Kartikpatkar/sf-security-auditor)
+
+> ✔ Privacy-first • ✔ Offline-capable • ✔ No external servers • ✔ Salesforce-focused
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ![Apex](https://img.shields.io/badge/-Apex-1798c1?style=flat&logo=salesforce&logoColor=white)
@@ -227,6 +249,14 @@ I design and ship real-world solutions that simplify Apex development, metadata 
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Salesforce CLI](https://img.shields.io/badge/-SFDX-00A1E0?style=flat&logo=salesforce)
+![Chrome Extensions](https://img.shields.io/badge/-Chrome%20Extensions-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![Manifest V3](https://img.shields.io/badge/-Manifest%20V3-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat&logo=postman&logoColor=white)
+![Metadata API](https://img.shields.io/badge/-Metadata%20API-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![Tooling API](https://img.shields.io/badge/-Tooling%20API-00A1E0?style=flat&logo=salesforce&logoColor=white)
+![ExcelJS](https://img.shields.io/badge/-ExcelJS-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
 
 ---
 
@@ -243,6 +273,7 @@ Here are some of my highlighted projects:
 - [Offline PDF Tools](https://github.com/Kartikpatkar/offline-pdf-tools): A privacy-first Chrome Extension that lets users merge, split, extract, rotate, delete, and reorder PDF pages completely offline, directly in the browser.
 - [FieldForge](https://github.com/Kartikpatkar/fieldforge): A developer-focused Chrome Extension that lets Salesforce developers bulk-create custom fields from CSV/XLSX with validation, preview, and safe Metadata API deployment.
 - [ProfileShift](https://github.com/Kartikpatkar/profile-shift): A developer-focused Chrome Extension that converts Salesforce Profiles into minimal Permission Set metadata with review, export, and safe Metadata API deployment.
+- [SF Security Auditor](https://github.com/Kartikpatkar/sf-security-auditor): A Salesforce security auditing Chrome Extension that analyzes profiles, permission sets, object access, and compliance risks while generating audit-ready reports locally.
 
 ---
 
