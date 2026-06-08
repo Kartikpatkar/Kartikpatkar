@@ -230,7 +230,7 @@ I design and ship real-world solutions that simplify Apex development, metadata 
 
 > 🎯 Whether you're preparing for a security review, compliance assessment, internal audit, or org cleanup — SF Security Auditor helps you identify risks and generate audit-ready reports in minutes.
 
-🛡️ Chrome Extension — **Coming Soon**
+🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/mbanedjmimggapgpcnlhbndmdmehpolj?utm_source=item-share-cb)
 📦 [View Project Repository](https://github.com/Kartikpatkar/sf-security-auditor)
 
 > ✔ Privacy-first • ✔ Offline-capable • ✔ No external servers • ✔ Salesforce-focused
