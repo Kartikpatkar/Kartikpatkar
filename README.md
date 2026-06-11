@@ -237,6 +237,30 @@ I design and ship real-world solutions that simplify Apex development, metadata 
 
 ---
 
+## 🗂️ Featured Project – SF Vault+
+
+**SF Vault+** is an offline-first Chrome extension built specifically for Salesforce professionals who manage multiple orgs, environments, and client credentials daily. It provides a secure and organized workspace for storing, managing, and launching Salesforce logins without relying on spreadsheets, notes, or generic password managers.
+
+* 🔑 Store and manage Salesforce credentials in one place
+* 🗂️ Organize orgs using groups and structured environments
+* 🚀 One-click login to Production, Sandbox, Developer, and Custom Domain orgs
+* 📋 Quick credential copy utilities for faster workflows
+* 🔍 Global search across all saved orgs and environments
+* 🏷️ Environment-based organization with Production, Sandbox, Developer, and Scratch support
+* 🌙 Modern light and dark theme experience
+* 💻 Built with Manifest V3 and fully local browser storage
+* 🔒 Privacy-first architecture with no external servers or cloud dependency
+* ⚡ Designed specifically for Salesforce Developers, Admins, Architects, Consultants, QA, and Support teams
+
+> 🎯 Whether you're managing customer environments, multiple sandboxes, production orgs, or development instances — SF Vault+ helps you stay organized and access the right Salesforce org in seconds.
+
+🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/jpdnbaplnomajdlomcmbpfklcolgbljo?utm_source=item-share-cb)
+📦 [View Project Repository](https://github.com/Kartikpatkar/sf-vault)
+
+> ✔ Offline First • ✔ Local Storage Only • ✔ No External Servers • ✔ Salesforce Focused
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ![Apex](https://img.shields.io/badge/-Apex-1798c1?style=flat&logo=salesforce&logoColor=white)
@@ -274,6 +298,8 @@ Here are some of my highlighted projects:
 - [FieldForge](https://github.com/Kartikpatkar/fieldforge): A developer-focused Chrome Extension that lets Salesforce developers bulk-create custom fields from CSV/XLSX with validation, preview, and safe Metadata API deployment.
 - [ProfileShift](https://github.com/Kartikpatkar/profile-shift): A developer-focused Chrome Extension that converts Salesforce Profiles into minimal Permission Set metadata with review, export, and safe Metadata API deployment.
 - [SF Security Auditor](https://github.com/Kartikpatkar/sf-security-auditor): A Salesforce security auditing Chrome Extension that analyzes profiles, permission sets, object access, and compliance risks while generating audit-ready reports locally.
+- [SF Vault+](https://github.com/Kartikpatkar/sf-vault): An offline-first Salesforce credential manager and org launcher that helps developers, admins, and consultants organize, manage, and access multiple Salesforce environments from one centralized workspace.
+
 
 ---
 
