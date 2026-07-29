@@ -1,8 +1,20 @@
 {
-  "apexgenie": { "users": 0 },
-  "sfvault": { "users": 0 },
-  "sfsecurityauditor": { "users": 0 },
-  "sldsiconskit": { "users": 0 },
-  "fieldforge": { "users": 0 },
-  "total": { "users": 0 }
+  "apexgenie": {
+    "users": 7
+  },
+  "sfvault": {
+    "users": 0
+  },
+  "sfsecurityauditor": {
+    "users": 3
+  },
+  "sldsiconskit": {
+    "users": 13
+  },
+  "fieldforge": {
+    "users": 12
+  },
+  "total": {
+    "users": 35
+  }
 }
