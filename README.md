@@ -1,324 +1,179 @@
-👋 Hi there, I'm Kartik Patkar
+<div align="center">
 
-I'm a **Senior Salesforce Developer and Chrome Extension builder** who specializes in creating **offline-first, privacy-focused developer tools** for Salesforce professionals.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:00A1E0&height=200&section=header&text=Kartik%20Patkar&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Senior%20Salesforce%20Developer%20%7C%20Chrome%20Extension%20Builder&descSize=18&descAlignY=58&descColor=94E4FF" width="100%"/>
 
-I design and ship real-world solutions that simplify Apex development, metadata management, UI building, and everyday developer workflows — many of which are published on the Chrome Web Store and used by Salesforce developers globally.
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00A1E0&center=true&vCenter=true&width=600&lines=Builds+offline-first+Salesforce+tools;11+Chrome+Extensions+%E2%80%A2+0+servers;Privacy+by+architecture%2C+not+policy" alt="typing"/></a>
 
-## 🚀 About Me
+<br/><br/>
 
-- 🔭 Senior Salesforce Developer with hands-on experience in Apex, LWC, metadata-driven architectures, and secure integrations.
-- 🧩 Creator of multiple **published Chrome Extensions** focused on Salesforce and developer productivity.
-- 🧠 Strong interest in **offline-first tools**, browser-based automation, and privacy-respecting architectures.
-- ⚙️ Experienced in Salesforce DevOps, package.xml workflows, Metadata API, Tooling API, and deployment automation.
-- 🌱 Continuously exploring scalable design patterns, clean UX for developer tools, and modern web APIs.
-- 💬 Happy to discuss Salesforce architecture, Chrome extension development, Apex patterns, or open-source collaboration.
+<a href="https://www.linkedin.com/in/kartik-patkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kartikkp.asset@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://chromewebstore.google.com/"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
----
+<br/><br/>
 
-## 🏆 What I’m Known For
+<img src="https://img.shields.io/badge/11-Extensions%20Shipped-0F172A?style=for-the-badge&labelColor=00A1E0"/>
+<img src="https://img.shields.io/badge/0-External%20Servers-0F172A?style=for-the-badge&labelColor=00A1E0"/>
+<img src="https://img.shields.io/badge/100%25-Client--Side-0F172A?style=for-the-badge&labelColor=00A1E0"/>
+<img src="https://img.shields.io/badge/0%25-Data%20Collected-0F172A?style=for-the-badge&labelColor=00A1E0"/>
 
-- Building **offline-first Chrome Extensions** for Salesforce developers
-- Turning painful Salesforce workflows into **one-click tools**
-- Metadata-driven solutions (package.xml, exports, comparisons)
-- Clean, developer-friendly UI/UX for technical tools
-- Privacy-first designs — no servers, no tracking, no data leaks
+</div>
 
----
+<br/>
 
-## 🧠 Featured Project – Apex Genie ⚡
+I build **offline-first, privacy-focused developer tools** for the Salesforce ecosystem — extensions that run entirely in the browser, ship no data to any server, and turn multi-step Salesforce workflows into one-click actions.
 
-**[Apex Genie](https://github.com/Kartikpatkar/apexgenie)** is a powerful browser extension that helps Salesforce developers effortlessly convert JSON into strongly typed Apex classes, generate test classes, and more — right from the browser.
+Eleven published Chrome extensions. Zero servers. Zero telemetry. Every one of them does real work for real Salesforce developers, admins, and architects.
 
-- 💡 One-click JSON → Apex class generation  
-- 🧪 Auto-generate test classes with optional comments and assertions  
-- 🔒 Offline-first, no data leaves your browser  
-- 📦 Download output as a ZIP with metadata, class files, and stats  
-- 🧩 Modular, themeable, and open-source  
+<br/>
 
-> 🎯 Whether you're prototyping, testing, or integrating APIs — Apex Genie saves hours of manual coding.
+## About
 
-🔗 [Install Chrome Extension](https://chrome.google.com/webstore/detail/json-to-apex-genie/ifliljlnfdnmagdgmomglfoimjcnpinb)  
-📦 [View Project Repository](https://github.com/Kartikpatkar/json-2-apex-genie)
+- **Senior Salesforce Developer** — Apex, LWC, metadata-driven architecture, secure org integrations
+- **Chrome Extension builder** — 10+ published tools, all Manifest V3, all client-side
+- **Salesforce DevOps** — package.xml automation, Metadata API, Tooling API, deployment tooling
+- Focused on **offline-first design**: no OAuth, no credential storage, no external servers — just the browser and the active Salesforce session
+- Open to conversations on Salesforce architecture, Chrome extension internals, Apex patterns, and open-source collaboration
 
-> ✔ Offline-first • ✔ Privacy-focused • ✔ Zero external servers
+<br/>
 
----
+## What I'm Known For
 
-## 🧩 Project – SLDS Icons Kit 🎨
+| | |
+|---|---|
+| 🔒 **Privacy-first by default** | No servers, no tracking, no stored credentials — session-based or fully local |
+| ⚡ **Painful workflows → one click** | Metadata exports, package.xml generation, field creation, security audits |
+| 🧩 **Metadata-driven tooling** | Deep use of the Metadata API and Tooling API across the whole catalog |
+| 🎨 **Developer-grade UI** | Dark/light themes, live previews, Monaco editors — polish, not just function |
 
-**[SLDS Icons Kit](https://github.com/Kartikpatkar/SLDS-icons-kit-salesforce)** is a full-tab Chrome Extension built for Salesforce Developers, Admins, and Architects to explore and utilize the complete SLDS icon library with ease.
+<br/>
 
-- 🔍 Browse and filter icons by name, category, or tags  
-- 🎛 Customize icon color, size, and style with live preview  
-- 📋 Copy LWC, Aura, and SLDS code snippets instantly  
-- 🌗 Toggle between dark/light themes — theme-aware Monaco Editor included  
-- 📦 Download icons as SVG or PNG, customize on the fly  
-- 💡 Built for speed, productivity, and offline use
+## Featured Projects
 
-> Perfect for building lightning-fast UIs in LWC or Aura, without ever leaving your dev environment.
+### ⚡ [Apex Genie](https://github.com/Kartikpatkar/apexgenie)
+Converts JSON into strongly typed Apex classes and generates test classes with assertions — right in the browser, fully offline.
+`JavaScript` `Apex` `Chrome Extension`
+[Install](https://chrome.google.com/webstore/detail/json-to-apex-genie/ifliljlnfdnmagdgmomglfoimjcnpinb) · [Repo](https://github.com/Kartikpatkar/apexgenie)
 
-🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/pgjeeljfclipedfnlojjchmmilddiaje)
-📦 [View Project Repository](https://github.com/Kartikpatkar/SLDS-icons-kit-salesforce)
+### 🛡️ [SF Security Auditor](https://github.com/Kartikpatkar/sf-security-auditor)
+Audits profiles, permission sets, and object-level access directly from the browser, then exports professionally formatted, multi-sheet Excel audit workbooks — no data leaves the org.
+`Metadata API` `ExcelJS` `Chrome Extension`
+[Install](https://chromewebstore.google.com/detail/mbanedjmimggapgpcnlhbndmdmehpolj?utm_source=item-share-cb) · [Repo](https://github.com/Kartikpatkar/sf-security-auditor)
 
----
+### 🗂️ [SF Vault+](https://github.com/Kartikpatkar/sf-vault)
+Offline-first credential and org manager for developers juggling multiple Salesforce environments — one-click login across Production, Sandbox, Developer, and Custom Domain orgs.
+`Manifest V3` `Local Storage` `Chrome Extension`
+[Install](https://chromewebstore.google.com/detail/jpdnbaplnomajdlomcmbpfklcolgbljo?utm_source=item-share-cb) · [Repo](https://github.com/Kartikpatkar/sf-vault)
 
-## 🧠 Featured Project – Base64 Buddy 🖇️
+### 🚀 [FieldForge](https://github.com/Kartikpatkar/fieldforge)
+Bulk-creates custom fields from CSV/XLSX with local + org-side validation, metadata preview, and production-safety confirmation before deployment.
+`Metadata API` `Chrome Extension`
+[Install](https://chromewebstore.google.com/detail/nfjjccdcnpdmfglblfnkmmfecmblbhfo?utm_source=item-share-cb) · [Repo](https://github.com/Kartikpatkar/fieldforge)
 
-**[Base64 Buddy](https://github.com/Kartikpatkar/base64-buddy)** is a lightweight Chrome Extension that enables developers and designers to **encode and decode files in Base64** effortlessly — right from the browser.
+### 🎨 [SLDS Icons Kit](https://github.com/Kartikpatkar/SLDS-icons-kit-salesforce)
+Full-tab explorer for the complete SLDS icon library — live color/size customization and instant LWC, Aura, and SLDS code snippet copy.
+`LWC` `Monaco Editor` `Chrome Extension`
+[Install](https://chromewebstore.google.com/detail/pgjeeljfclipedfnlojjchmmilddiaje) · [Repo](https://github.com/Kartikpatkar/SLDS-icons-kit-salesforce)
 
-- 💡 Encode/decode images, documents, and other file types instantly  
-- 📋 One-click copy for Base64 strings or Data URIs  
-- 🔍 File preview before encoding or after decoding  
-- 🌑 Dark/light theme support with auto-save preferences  
-- 🔒 Offline-first and privacy-focused — no data leaves your browser  
+<br/>
 
-> 🎯 Perfect for web developers, Salesforce developers, or anyone working with Base64 in integrations and workflows. Save time, reduce errors, and simplify file handling.
+<details>
+<summary><strong>More published tools</strong></summary>
+<br/>
 
-🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/base64-buddy/pbaojpkalnecabmgnkgdpfonmafpfphh)
-📦 [View Project Repository](https://github.com/Kartikpatkar/base64-buddy)  
+| Project | What it does |
+|---|---|
+| [ProfileShift](https://github.com/Kartikpatkar/profile-shift) | Converts Salesforce Profiles into minimal, delta-style Permission Set metadata |
+| [Salesforce Package XML Generator](https://github.com/Kartikpatkar/salesforce-package-xml-generator) | Visually explores org metadata and generates accurate `package.xml` files |
+| [Salesforce Metadata Exporter](https://github.com/Kartikpatkar/salesforce-metadata-exporter) | Exports org metadata to a ZIP using the Metadata API, with one-click presets |
+| [DiffBoard](https://github.com/Kartikpatkar/diff-board) | Side-by-side visual diff tool for code, text, and JSON |
+| [Base64 Buddy](https://github.com/Kartikpatkar/base64-buddy) | Encodes/decodes files to and from Base64 with instant preview |
+| [Offline PDF Tools](https://github.com/Kartikpatkar/offline-pdf-tools) | Merges, splits, reorders, and rotates PDFs fully offline |
 
-> ✔ Offline-first • ✔ Privacy-focused • ✔ Zero external servers
+</details>
 
----
+<br/>
 
-## 🧠 Featured Project – DiffBoard 🔀
+## Tech Stack
 
-**DiffBoard** is a modern, developer-focused **Chrome Extension** that helps you **compare code, text, and JSON visually** with clarity and speed — directly inside your browser.
+**Salesforce**
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=lightning&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Metadata API](https://img.shields.io/badge/Metadata%20API-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Tooling API](https://img.shields.io/badge/Tooling%20API-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SFDX](https://img.shields.io/badge/Salesforce%20CLI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-* 🧩 Side-by-side comparison for code, text, and JSON
-* ➕➖ Clear highlighting for added, removed, and modified lines
-* 📋 One-click copy for:
-  * Original input
-  * Modified input
-  * Full diff output
-  * Only added or removed lines
-* 🌗 Dark / light theme support with persistent preferences
-* 🧭 Smooth navigation between input and diff views
-* 🔒 Offline-first & privacy-friendly — all processing happens locally
+**Web & Extensions**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Manifest V3](https://img.shields.io/badge/Manifest%20V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-> 🎯 Ideal for developers comparing API responses, configuration files, logs, JSON payloads, or reviewing code changes quickly without switching tools.
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/diffboard/fcjefapchiecdkfdggohfdpchepbncpg)
-📦 [View Project Repository](https://github.com/Kartikpatkar/diff-board) 
+<br/>
 
-> ✅ Fully client-side | 🔐 No data leaves your browser | ⚡ Built for developer productivity
+## Live Install Counts
 
----
+<div align="center">
 
-## 🧠 Featured Project – Salesforce Package XML Generator 📦
+![Total Users](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Kartikpatkar/Kartikpatkar/main/data/installs.json&label=Total%20Active%20Users&query=%24.total.users&color=00A1E0&style=for-the-badge)
+![Apex Genie](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Kartikpatkar/Kartikpatkar/main/data/installs.json&label=Apex%20Genie&query=%24.apexgenie.users&color=0F172A&style=for-the-badge)
+![SF Vault+](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Kartikpatkar/Kartikpatkar/main/data/installs.json&label=SF%20Vault%2B&query=%24.sfvault.users&color=0F172A&style=for-the-badge)
+![SF Security Auditor](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Kartikpatkar/Kartikpatkar/main/data/installs.json&label=SF%20Security%20Auditor&query=%24.sfsecurityauditor.users&color=0F172A&style=for-the-badge)
 
-**Salesforce Package XML Generator** is a developer-focused **Chrome Extension** that helps Salesforce professionals **explore org metadata and generate accurate `package.xml` files visually** — directly from their active Salesforce session.
+</div>
 
-* 🧩 Automatic Salesforce org detection (Prod, Sandbox, Dev Edition)
-* 📂 Browse real metadata types and components present in the org
-* 🔍 View metadata using the correct Salesforce APIs:
-  * Tooling API for Apex metadata
-  * Metadata API for configuration metadata
-* ☑️ Fine-grained selection for partial deployments
-* 📦 Instant generation of valid `package.xml`
-* 👁️ Live XML preview with one-click download or copy
-* 🌗 Clean, developer-friendly UI with dark / light mode
-* 🔒 Secure & privacy-first — no OAuth, no credentials stored
+Real numbers, not a claim. A daily GitHub Action (`update-installs.yml`) scrapes each Chrome Web Store listing and commits fresh counts to `data/installs.json`; the badges above read that file live via `raw.githubusercontent.com`. No gist, no extra secrets — just the repo's own default token.
 
-> 🎯 Ideal for Salesforce developers, consultants, and release managers preparing deployment packages, partial releases, or CI/CD metadata lists without manually writing XML.
+Files included below, ready to drop into your `Kartikpatkar/Kartikpatkar` repo:
+- `.github/workflows/update-installs.yml` — daily scraper + auto-commit
+- `scripts/update_installs.py` — the scraper itself
+- `data/installs.json` — seed file, starts at 0 until the Action runs once
+- `.github/workflows/snake.yml` — the contribution-snake animation below
 
-🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/dckmmjdjldnoipccflojfodimnmemfgn?utm_source=item-share-cb)
-📦 [View Project Repository](https://github.com/Kartikpatkar/salesforce-package-xml-generator) 
+See `SETUP.md` for the two-minute setup.
 
-> ✅ Session-based authentication | 🔐 No external servers | ⚡ Built for real Salesforce deployment workflows
+<br/>
 
----
+## Contribution Snake
 
-## 🧩 Project – Salesforce Metadata Exporter 📦
+<div align="center">
+<img src="https://raw.githubusercontent.com/Kartikpatkar/Kartikpatkar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
-**Salesforce Metadata Exporter** is a lightweight Chrome Extension built for Salesforce Developers, Architects, and Technical Admins to export **Salesforce metadata only** from a logged-in org into a downloadable ZIP file — quickly, safely, and on demand.
+Animated snake eating your contribution graph, regenerated daily. Setup: add `.github/workflows/snake.yml` from [`Platane/snk`](https://github.com/Platane/snk) to your profile repo — it commits the SVG to an `output` branch automatically, no manual updates after that.
 
-* 📦 Export Salesforce metadata using the Metadata API
-* 🧩 Select specific components like Objects, Fields, Apex, Flows, and more
-* ⚡ Use one-click presets such as *Apex Only* or *Object Model*
-* 📄 Automatically generate a clean `package.xml`
-* 🔐 No credentials stored — uses your existing Salesforce session
-* 💻 No CLI, no setup, no external servers
+<br/>
 
-> Ideal for quick audits, configuration reviews, pre/post deployment checks, and development workflows — without relying on Salesforce CLI or ANT.
+## GitHub Stats
 
-🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/mnkhginjgjbcmnfkcfnjbhpgnjfmeibd?utm_source=item-share-cb)
-📦 [View Project Repository](https://github.com/Kartikpatkar/salesforce-metadata-exporter) 
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Kartikpatkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00A1E0&icon_color=00A1E0&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikpatkar&theme=tokyonight&hide_border=true&background=0F172A&ring=00A1E0&fire=00A1E0&currStreakLabel=00A1E0" width="48%"/>
 
-## 🧩 Project – Offline PDF Tools 📄
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikpatkar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00A1E0&text_color=C9D1D9" width="40%"/>
 
-**Offline PDF Tools** is a privacy-first Chrome Extension that allows users to **modify PDF files completely offline** — directly inside the browser, with no uploads, no servers, and no tracking.
+</div>
 
-* 📑 Merge multiple PDF files into one
-* ✂️ Split PDFs using flexible page ranges (e.g. `1-3,5,7-10`)
-* 📋 Extract selected pages into a new PDF
-* 🔀 Reorder pages visually using thumbnails
-* 🗑 Delete unwanted pages safely
-* 🔄 Rotate pages by 90°, 180°, or 270°
-* 🔐 100% offline processing — files never leave your device
-* 💻 No accounts, no subscriptions, no external services
+<br/>
 
-> Ideal for privacy-conscious users, professionals handling sensitive documents, students, and anyone who wants reliable PDF tools without trusting online services.
+## Let's Connect
 
-🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/lkokanmnglecjkgabbhincgaiceedolc?utm_source=item-share-cb)
-📦 [View Project Repository](https://github.com/Kartikpatkar/offline-pdf-tools)
+Open to conversations on Salesforce architecture, Chrome extension internals, developer tooling, and open-source collaboration.
 
----
+<div align="center">
 
-## 🧠 Featured Project – FieldForge 🚀
+<a href="https://www.linkedin.com/in/kartik-patkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kartikkp.asset@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-**[FieldForge](https://github.com/Kartikpatkar/fieldforge)** is a powerful Chrome Extension that helps Salesforce developers bulk-create custom fields from CSV or XLSX files — with built-in validation, metadata transparency, and safe deployment controls.
+</div>
 
-* 📂 Upload CSV/XLSX to define multiple custom fields at once
-* 📝 Preview & edit fields inline before deployment
-* ✅ Local + org-side validation to catch errors early
-* 🔍 View generated Metadata XML before deploying
-* 📦 Download the deploy ZIP package
-* 🚀 Deploy safely using Salesforce Metadata API
-* 🛡 Production safety confirmation to prevent accidental changes
-* 🎨 Modern UI with dark/light theme support
-* 🔒 Session-based — no OAuth, no credential storage
-* 🌍 Open-source and developer-first
-
-> 🎯 Whether you're building a new data model, setting up a sandbox, or implementing large features — FieldForge eliminates repetitive setup work and keeps deployments transparent and safe.
-
-🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/nfjjccdcnpdmfglblfnkmmfecmblbhfo?utm_source=item-share-cb)
-📦 [View Project Repository](https://github.com/Kartikpatkar/fieldforge)
-
-> ✔ Metadata-safe • ✔ Developer-focused • ✔ No external servers • ✔ Manifest V3
-
----
-
-## 🧠 Featured Project – ProfileShift 🔐
-
-**[ProfileShift](https://github.com/Kartikpatkar/profile-shift)** is a developer-focused Chrome Extension that helps Salesforce teams convert legacy **Profiles into modern Permission Sets** — making security refactoring faster, safer, and transparent.
-
-* 🔍 Extract Salesforce Profile metadata directly from your org
-* 🔄 Convert Profiles into minimal **Permission Set XML**
-* 🧩 Review and edit permissions before generating metadata
-* 📦 Export deploy-ready Permission Set files
-* 🚀 Deploy Permission Sets directly using the **Salesforce Metadata API**
-* 🔐 Uses your existing Salesforce session (no OAuth required)
-* 🧠 Supports object permissions, field-level security, system permissions, and more
-* ⚡ Generates **clean delta-style Permission Sets** (enabled permissions only)
-* 🎨 Modern full-page UI with dark/light theme
-* 🌍 Fully open-source and developer-friendly
-
-> 🎯 Ideal for Salesforce developers, administrators, and architects working to modernize security architecture by moving from Profile-based access control to Permission Set–based access management.
-
-🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/emmbjaeefbnhegnkkcgpndccpopiocio?utm_source=item-share-cb)
-📦 [View Project Repository](https://github.com/Kartikpatkar/profile-shift)
-
-> ✔ Metadata-safe • ✔ Developer-focused • ✔ Client-side only • ✔ Manifest V3
-
----
-
-## 🛡️ Featured Project – SF Security Auditor
-
-**SF Security Auditor** is a privacy-first Chrome extension that helps Salesforce admins, consultants, and security teams audit profiles, permission sets, object access, and compliance risks directly from their browser — with no packages to install and no data leaving the organization.
-
-* 🔐 Connects securely using your active Salesforce session
-* 👥 Unified Profiles & Permission Sets inventory with user assignment insights
-* 🛡️ Audits critical system permissions and compliance-sensitive access
-* 📊 Generates object-level CRUD, View All, and Modify All access matrices
-* 📂 Analyzes metadata footprint across Apex, Profiles, Permission Sets, and Custom Objects
-* 📈 Exports professionally formatted multi-sheet Excel audit workbooks
-* 🌙 Modern light/dark workspace with fully local processing
-* 🚫 No external servers, no credential storage, and no Salesforce package installation required
-
-> 🎯 Whether you're preparing for a security review, compliance assessment, internal audit, or org cleanup — SF Security Auditor helps you identify risks and generate audit-ready reports in minutes.
-
-🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/mbanedjmimggapgpcnlhbndmdmehpolj?utm_source=item-share-cb)
-📦 [View Project Repository](https://github.com/Kartikpatkar/sf-security-auditor)
-
-> ✔ Privacy-first • ✔ Offline-capable • ✔ No external servers • ✔ Salesforce-focused
-
----
-
-## 🗂️ Featured Project – SF Vault+
-
-**SF Vault+** is an offline-first Chrome extension built specifically for Salesforce professionals who manage multiple orgs, environments, and client credentials daily. It provides a secure and organized workspace for storing, managing, and launching Salesforce logins without relying on spreadsheets, notes, or generic password managers.
-
-* 🔑 Store and manage Salesforce credentials in one place
-* 🗂️ Organize orgs using groups and structured environments
-* 🚀 One-click login to Production, Sandbox, Developer, and Custom Domain orgs
-* 📋 Quick credential copy utilities for faster workflows
-* 🔍 Global search across all saved orgs and environments
-* 🏷️ Environment-based organization with Production, Sandbox, Developer, and Scratch support
-* 🌙 Modern light and dark theme experience
-* 💻 Built with Manifest V3 and fully local browser storage
-* 🔒 Privacy-first architecture with no external servers or cloud dependency
-* ⚡ Designed specifically for Salesforce Developers, Admins, Architects, Consultants, QA, and Support teams
-
-> 🎯 Whether you're managing customer environments, multiple sandboxes, production orgs, or development instances — SF Vault+ helps you stay organized and access the right Salesforce org in seconds.
-
-🔗 [Install Chrome Extension](https://chromewebstore.google.com/detail/jpdnbaplnomajdlomcmbpfklcolgbljo?utm_source=item-share-cb)
-📦 [View Project Repository](https://github.com/Kartikpatkar/sf-vault)
-
-> ✔ Offline First • ✔ Local Storage Only • ✔ No External Servers • ✔ Salesforce Focused
-
----
-
-## 🛠️ Technologies & Tools
-
-![Apex](https://img.shields.io/badge/-Apex-1798c1?style=flat&logo=salesforce&logoColor=white)
-![Lightning Web Components](https://img.shields.io/badge/-LWC-00A1E0?style=flat&logo=lightning&logoColor=white)
-![SOQL](https://img.shields.io/badge/-SOQL-0070d2?style=flat&logo=salesforce&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Salesforce CLI](https://img.shields.io/badge/-SFDX-00A1E0?style=flat&logo=salesforce)
-![Chrome Extensions](https://img.shields.io/badge/-Chrome%20Extensions-4285F4?style=flat&logo=googlechrome&logoColor=white)
-![Manifest V3](https://img.shields.io/badge/-Manifest%20V3-4285F4?style=flat&logo=googlechrome&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat&logo=postman&logoColor=white)
-![Metadata API](https://img.shields.io/badge/-Metadata%20API-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![Tooling API](https://img.shields.io/badge/-Tooling%20API-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![ExcelJS](https://img.shields.io/badge/-ExcelJS-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
-
----
-
-## 📌 Pinned Projects
-
-Here are some of my highlighted projects:
-
-- [Apex Genie](https://github.com/Kartikpatkar/apexgenie): A browser extension to convert JSON to Apex classes and generate test classes — built for Salesforce devs.
-- [SLDS Icons Kit](https://github.com/Kartikpatkar/SLDS-icons-kit-salesforce): A full-tab Chrome Extension to explore and copy SLDS icons with preview, color customization, and export tools.
-- [Base64 Buddy](https://github.com/Kartikpatkar/base64-buddy): A lightweight Chrome Extension that enables developers and designers to encode and decode files in Base64 effortlessly — right from the browser.
-- [DiffBoard](https://github.com/Kartikpatkar/diff-board): A Chrome Extension for fast, visual code comparison. It highlights differences line-by-line, supports JSON formatting, offers copy utilities, and works entirely offline with a clean, developer-friendly UI.
-- [Salesforce Package XML Generator](https://github.com/Kartikpatkar/salesforce-package-xml-generator): A Chrome Extension for Salesforce developers to visually explore org metadata and generate accurate package.xml files for deployments.
-- [Salesforce Metadata Exporter](https://github.com/Kartikpatkar/salesforce-metadata-exporter): A Chrome Extension for Salesforce developers to export Salesforce metadata only from a logged-in org as a ZIP file using the Metadata API.
-- [Offline PDF Tools](https://github.com/Kartikpatkar/offline-pdf-tools): A privacy-first Chrome Extension that lets users merge, split, extract, rotate, delete, and reorder PDF pages completely offline, directly in the browser.
-- [FieldForge](https://github.com/Kartikpatkar/fieldforge): A developer-focused Chrome Extension that lets Salesforce developers bulk-create custom fields from CSV/XLSX with validation, preview, and safe Metadata API deployment.
-- [ProfileShift](https://github.com/Kartikpatkar/profile-shift): A developer-focused Chrome Extension that converts Salesforce Profiles into minimal Permission Set metadata with review, export, and safe Metadata API deployment.
-- [SF Security Auditor](https://github.com/Kartikpatkar/sf-security-auditor): A Salesforce security auditing Chrome Extension that analyzes profiles, permission sets, object access, and compliance risks while generating audit-ready reports locally.
-- [SF Vault+](https://github.com/Kartikpatkar/sf-vault): An offline-first Salesforce credential manager and org launcher that helps developers, admins, and consultants organize, manage, and access multiple Salesforce environments from one centralized workspace.
-
-
----
-
-## 📫 Let's Connect
-
-I'm always open to connecting with like-minded individuals. Feel free to reach out to me through the following platforms:
-
-- [LinkedIn](https://www.linkedin.com/in/kartik-patkar)
-- [Email](mailto:kartikkp.asset@gmail.com)
-
-Looking forward to collaborating and sharing knowledge!
-
----
-
-## 🤝 Open to Collaboration
-
-I’m especially interested in:
-- Salesforce developer tooling
-- Chrome Extensions for productivity
-- Open-source projects with real-world impact
-
-If you’re building something interesting or want to collaborate, feel free to reach out.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,100:0F172A&height=100&section=footer" width="100%"/>
