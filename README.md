@@ -17,6 +17,10 @@
 <img src="https://img.shields.io/badge/100%25-Client--Side-0F172A?style=for-the-badge&labelColor=00A1E0"/>
 <img src="https://img.shields.io/badge/0%25-Data%20Collected-0F172A?style=for-the-badge&labelColor=00A1E0"/>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Kartikpatkar&color=00A1E0&style=for-the-badge&label=Profile%20Views" alt="Profile Views"/>
+
 </div>
 
 <br/>
@@ -27,7 +31,7 @@ Eleven published Chrome extensions. Zero servers. Zero telemetry. Every one of t
 
 <br/>
 
-## About
+## 🎯 About
 
 - **Senior Salesforce Developer** — Apex, LWC, metadata-driven architecture, secure org integrations
 - **Chrome Extension builder** — 10+ published tools, all Manifest V3, all client-side
@@ -37,7 +41,15 @@ Eleven published Chrome extensions. Zero servers. Zero telemetry. Every one of t
 
 <br/>
 
-## What I'm Known For
+## 🏆 Achievements
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kartikpatkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" /></a>
+</div>
+
+<br/>
+
+## ⚡ What I'm Known For
 
 | | |
 |---|---|
@@ -48,7 +60,7 @@ Eleven published Chrome extensions. Zero servers. Zero telemetry. Every one of t
 
 <br/>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### ⚡ [Apex Genie](https://github.com/Kartikpatkar/apexgenie)
 Converts JSON into strongly typed Apex classes and generates test classes with assertions — right in the browser, fully offline.
@@ -65,7 +77,7 @@ Offline-first credential and org manager for developers juggling multiple Salesf
 `Manifest V3` `Local Storage` `Chrome Extension`
 [Install](https://chromewebstore.google.com/detail/jpdnbaplnomajdlomcmbpfklcolgbljo?utm_source=item-share-cb) · [Repo](https://github.com/Kartikpatkar/sf-vault)
 
-### 🚀 [FieldForge](https://github.com/Kartikpatkar/fieldforge)
+### 🔨 [FieldForge](https://github.com/Kartikpatkar/fieldforge)
 Bulk-creates custom fields from CSV/XLSX with local + org-side validation, metadata preview, and production-safety confirmation before deployment.
 `Metadata API` `Chrome Extension`
 [Install](https://chromewebstore.google.com/detail/nfjjccdcnpdmfglblfnkmmfecmblbhfo?utm_source=item-share-cb) · [Repo](https://github.com/Kartikpatkar/fieldforge)
@@ -94,9 +106,11 @@ Full-tab explorer for the complete SLDS icon library — live color/size customi
 
 <br/>
 
-## Tech Stack
+## 💻 Tech Stack
 
-**Salesforce**
+<div align="center">
+
+**Salesforce**<br/>
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=lightning&logoColor=white)
 ![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
@@ -104,22 +118,28 @@ Full-tab explorer for the complete SLDS icon library — live color/size customi
 ![Tooling API](https://img.shields.io/badge/Tooling%20API-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![SFDX](https://img.shields.io/badge/Salesforce%20CLI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-**Web & Extensions**
+<br/>
+
+**Web & Extensions**<br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Manifest V3](https://img.shields.io/badge/Manifest%20V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
-**Tools**
+<br/>
+
+**Tools**<br/>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</div>
+
 <br/>
 
-## Live Install Counts
+## 📈 Live Install Counts
 
 <div align="center">
 
@@ -132,27 +152,19 @@ Full-tab explorer for the complete SLDS icon library — live color/size customi
 
 Real numbers, not a claim. A daily GitHub Action (`update-installs.yml`) scrapes each Chrome Web Store listing and commits fresh counts to `data/installs.json`; the badges above read that file live via `raw.githubusercontent.com`. No gist, no extra secrets — just the repo's own default token.
 
-Files included below, ready to drop into your `Kartikpatkar/Kartikpatkar` repo:
-- `.github/workflows/update-installs.yml` — daily scraper + auto-commit
-- `scripts/update_installs.py` — the scraper itself
-- `data/installs.json` — seed file, starts at 0 until the Action runs once
-- `.github/workflows/snake.yml` — the contribution-snake animation below
-
-See `SETUP.md` for the two-minute setup.
-
 <br/>
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Kartikpatkar/Kartikpatkar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-Animated snake eating your contribution graph, regenerated daily. Setup: add `.github/workflows/snake.yml` from [`Platane/snk`](https://github.com/Platane/snk) to your profile repo — it commits the SVG to an `output` branch automatically, no manual updates after that.
+Animated snake eating your contribution graph, regenerated daily via GitHub Actions.
 
 <br/>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -165,7 +177,7 @@ Animated snake eating your contribution graph, regenerated daily. Setup: add `.g
 
 <br/>
 
-## Let's Connect
+## 🤝 Let's Connect
 
 Open to conversations on Salesforce architecture, Chrome extension internals, developer tooling, and open-source collaboration.
 
