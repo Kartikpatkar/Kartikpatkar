@@ -87,15 +87,6 @@ Upload CSV/XLSX to define multiple custom fields, preview metadata, validate aga
 
 <br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kartikpatkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" /></a>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kartikpatkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00A1E0&icon_color=00A1E0&text_color=C9D1D9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikpatkar&theme=tokyonight&hide_border=true&background=0F172A&ring=00A1E0&fire=00A1E0&currStreakLabel=00A1E0" width="48%"/>
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/Kartikpatkar/Kartikpatkar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
