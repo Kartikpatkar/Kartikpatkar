@@ -1,0 +1,29 @@
+name: Update Install Counts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # daily at 6am UTC
+  workflow_dispatch: {}
+
+jobs:
+  update:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run scraper
+        run: python scripts/update_installs.py
+
+      - name: Commit updated counts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/installs.json
+          git diff --cached --quiet || git commit -m "chore: update install counts"
+          git push
